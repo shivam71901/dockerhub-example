@@ -1,2 +1,2 @@
 #!/bin/bash
-docker push shivam7190docker/webserver3
+docker push shivam7190docker/centosnginx
